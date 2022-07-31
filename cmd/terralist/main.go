@@ -15,7 +15,7 @@ var (
 	CommitHash     = "n/a"
 	BuildTimestamp = "n/a"
 
-	Mode = "debug"
+	Mode = "release"
 )
 
 func main() {
